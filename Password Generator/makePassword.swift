@@ -7,9 +7,9 @@
 
 import Foundation
 import UIKit
-func randomize(useNumbers: UISwitch, useUppercase: UISwitch) -> String {
+func randomize(useNumbers: UISwitch, useUppercase: UISwitch, length: Int) -> String {
 
-let length: Int = 25
+//let length: Int = 25
 var upperCaseCount: Int = Int.random(in: 3...(length / 2))
 var numCount: Int = 5
 
