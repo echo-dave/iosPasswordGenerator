@@ -6,6 +6,176 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>24DAC87B-4980-4324-89CE-4E6240870617</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>24DAC87B-4980-4324-89CE-4E6240870617.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657165224.43256795</real>
+			<key>timeStoppedRecording</key>
+			<real>657165318.72863102</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>24DAC87B-4980-4324-89CE-4E6240870617</string>
+		</dict>
+		<key>33C9C8FB-B1B3-48EC-AF9E-883B71C10268</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>33C9C8FB-B1B3-48EC-AF9E-883B71C10268.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657165364.95756602</real>
+			<key>timeStoppedRecording</key>
+			<real>657165389.36325705</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>33C9C8FB-B1B3-48EC-AF9E-883B71C10268</string>
+		</dict>
+		<key>70720F98-FF5A-4E6B-B332-B744EE943351</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>70720F98-FF5A-4E6B-B332-B744EE943351.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657165118.91636896</real>
+			<key>timeStoppedRecording</key>
+			<real>657165172.84418094</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>70720F98-FF5A-4E6B-B332-B744EE943351</string>
+		</dict>
+		<key>84A609E7-8D26-474B-8E0A-2A1FB97FBCE6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>84A609E7-8D26-474B-8E0A-2A1FB97FBCE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657165319.87882602</real>
+			<key>timeStoppedRecording</key>
+			<real>657165363.94844902</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>84A609E7-8D26-474B-8E0A-2A1FB97FBCE6</string>
+		</dict>
+		<key>B87A7A49-741E-4D27-B090-6FEFBBAB8661</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B87A7A49-741E-4D27-B090-6FEFBBAB8661.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657163821.27375102</real>
+			<key>timeStoppedRecording</key>
+			<real>657165106.79535401</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>B87A7A49-741E-4D27-B090-6FEFBBAB8661</string>
+		</dict>
 		<key>DD0E5894-1627-416A-89EC-4F1778AAF718</key>
 		<dict>
 			<key>className</key>
