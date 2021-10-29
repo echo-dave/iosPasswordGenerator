@@ -17,21 +17,13 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        useNumbers.setOn(true, animated: true)
-//        print(useNumbers.isOn)
-//        passwordLength.isContinuous = false
-//        passworedOutput.isEnabled = false
         passworedOutput.allowsEditingTextAttributes = false
+        passworedOutput.isEnabled = false
     }
 
-
-//    @IBAction func useNumbersChange(_ sender: UISwitch) {
-//        print(useNumbers.isOn)
-//    }
     
     @IBAction func passwrodLengthChange(_ sender: UISlider) {
         passwordLength.value = round(passwordLength.value)
-        print(passwordLength.value)
         passwordLengthValue.text = String(Int(passwordLength.value))
     }
     
@@ -39,10 +31,9 @@ class ViewController: UIViewController {
         
         let newPassword = randomize(useNumbers: useNumbers, useUppercase: useUppercase, length: Int(passwordLength.value))
         
-        print("new password: \(newPassword)")
-        print("password length: \(newPassword.count)")
+//        print("new password: \(newPassword)")
+//        print("password length: \(newPassword.count)")
         passworedOutput.text = newPassword
-        
     }
     
     
