@@ -74,6 +74,40 @@
 			<key>uniqueIdentifier</key>
 			<string>33C9C8FB-B1B3-48EC-AF9E-883B71C10268</string>
 		</dict>
+		<key>4E7D9298-FADC-4018-955B-7F5521E2004A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4E7D9298-FADC-4018-955B-7F5521E2004A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657165838.14399803</real>
+			<key>timeStoppedRecording</key>
+			<real>657165971.64305794</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>4E7D9298-FADC-4018-955B-7F5521E2004A</string>
+		</dict>
 		<key>70720F98-FF5A-4E6B-B332-B744EE943351</key>
 		<dict>
 			<key>className</key>
@@ -176,6 +210,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B87A7A49-741E-4D27-B090-6FEFBBAB8661</string>
 		</dict>
+		<key>CFD14A1B-7731-4BF0-A73A-B6440AB98C0E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CFD14A1B-7731-4BF0-A73A-B6440AB98C0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657166539.81711602</real>
+			<key>timeStoppedRecording</key>
+			<real>657166548.88243198</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>CFD14A1B-7731-4BF0-A73A-B6440AB98C0E</string>
+		</dict>
 		<key>DD0E5894-1627-416A-89EC-4F1778AAF718</key>
 		<dict>
 			<key>className</key>
@@ -209,6 +277,40 @@
 			<string>Run Password Generator</string>
 			<key>uniqueIdentifier</key>
 			<string>DD0E5894-1627-416A-89EC-4F1778AAF718</string>
+		</dict>
+		<key>F181C3F3-F50A-4222-A18F-6EFC6CF41DD0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F181C3F3-F50A-4222-A18F-6EFC6CF41DD0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657165676.56918895</real>
+			<key>timeStoppedRecording</key>
+			<real>657165836.96967101</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>F181C3F3-F50A-4222-A18F-6EFC6CF41DD0</string>
 		</dict>
 	</dict>
 </dict>
