@@ -30,7 +30,6 @@ for chars in charsLowerCase {
             password += charsUppercase.randomElement()!
             upperCaseCount -= 1
         }
-        print("uppercase: \(password)")
     }
     if useNumbers.isOn {
         lowerCaseCount -= numCount
@@ -38,7 +37,6 @@ for chars in charsLowerCase {
             password += String(Int.random(in: 0...9))
             numCount -= 1
         }
-        print("nums: \(password)")
     }
     var i = 0
     while i < lowerCaseCount {
@@ -46,7 +44,7 @@ for chars in charsLowerCase {
         i += 1
     }
     
-    let firstChar: String = String(password.removeFirst())
+    let firstChar: String = String(password.removeLast())
     let shuffled = password.shuffled()
     var concatenatedPassword: String = firstChar
     
