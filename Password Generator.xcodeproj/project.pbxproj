@@ -27,6 +27,7 @@
 		55B32698272B22E3007AB261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55B3269E272B2367007AB261 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		55B3269F272B2F61007AB261 /* makePassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makePassword.swift; sourceTree = "<group>"; };
+		55B58485272BAB9E00F1F7FA /* Documentation */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Documentation; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		55B3267E272B22E1007AB261 = {
 			isa = PBXGroup;
 			children = (
+				55B58485272BAB9E00F1F7FA /* Documentation */,
 				55B3269E272B2367007AB261 /* README.md */,
 				55B32689272B22E1007AB261 /* Password Generator */,
 				55B32688272B22E1007AB261 /* Products */,

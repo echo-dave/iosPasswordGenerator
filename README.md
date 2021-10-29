@@ -1,4 +1,8 @@
-#  iOS basic password generator
+#  iOS basic password generator demo
+
+![iOS Password Generator Demo](Documentation/iosPasswordGen.jpg)
+![iOS Password Generator Demo 2](Documentation/iosPasswordGen2.jpg)
+
 
 * A slider to set the length of password
 * A toggle to enable 5 randomly generated numbers

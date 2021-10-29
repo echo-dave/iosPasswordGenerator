@@ -40,6 +40,74 @@
 			<key>uniqueIdentifier</key>
 			<string>5E632A3C-705F-4C90-82B0-A11F98C7E7E7</string>
 		</dict>
+		<key>5F357C4C-F481-4AEE-93CD-F48559528894</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5F357C4C-F481-4AEE-93CD-F48559528894.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657171520.60926795</real>
+			<key>timeStoppedRecording</key>
+			<real>657171530.29113305</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>5F357C4C-F481-4AEE-93CD-F48559528894</string>
+		</dict>
+		<key>788CD641-8814-4437-A0E2-5464DFC54647</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>788CD641-8814-4437-A0E2-5464DFC54647.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Password Generator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Password Generator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Password Generator</string>
+			<key>timeStartedRecording</key>
+			<real>657171539.96666396</real>
+			<key>timeStoppedRecording</key>
+			<real>657172391.75985098</real>
+			<key>title</key>
+			<string>Run Password Generator</string>
+			<key>uniqueIdentifier</key>
+			<string>788CD641-8814-4437-A0E2-5464DFC54647</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
