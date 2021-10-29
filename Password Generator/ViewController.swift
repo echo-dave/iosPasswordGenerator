@@ -53,9 +53,8 @@ class ViewController: UIViewController {
         print("copied password")
         passworedOutput.isEnabled = false
         
-        //        let pasteBoard = NSPasteboard.generalPasteboard()
-//        pasteBoard.clearContents()
-//        pasteBoard.setString("my string", forType: NSStringPboardType)
+        // TODO: Add a confirmation on copy
+  
     }
 }
 
