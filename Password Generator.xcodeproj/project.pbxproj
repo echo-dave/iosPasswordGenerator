@@ -27,6 +27,13 @@
 		55B32698272B22E3007AB261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55B3269E272B2367007AB261 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		55B3269F272B2F61007AB261 /* makePassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makePassword.swift; sourceTree = "<group>"; };
+		55B58473272B745400F1F7FA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		55B58475272B745400F1F7FA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		55B58477272B745400F1F7FA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		55B5847A272B745400F1F7FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		55B5847C272B745600F1F7FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		55B5847F272B745600F1F7FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		55B58481272B745600F1F7FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +52,7 @@
 			children = (
 				55B3269E272B2367007AB261 /* README.md */,
 				55B32689272B22E1007AB261 /* Password Generator */,
+				55B58472272B745400F1F7FA /* Password Generator2 */,
 				55B32688272B22E1007AB261 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,6 +78,20 @@
 				55B32698272B22E3007AB261 /* Info.plist */,
 			);
 			path = "Password Generator";
+			sourceTree = "<group>";
+		};
+		55B58472272B745400F1F7FA /* Password Generator2 */ = {
+			isa = PBXGroup;
+			children = (
+				55B58473272B745400F1F7FA /* AppDelegate.swift */,
+				55B58475272B745400F1F7FA /* SceneDelegate.swift */,
+				55B58477272B745400F1F7FA /* ViewController.swift */,
+				55B58479272B745400F1F7FA /* Main.storyboard */,
+				55B5847C272B745600F1F7FA /* Assets.xcassets */,
+				55B5847E272B745600F1F7FA /* LaunchScreen.storyboard */,
+				55B58481272B745600F1F7FA /* Info.plist */,
+			);
+			path = "Password Generator2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -169,6 +191,22 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		55B58479272B745400F1F7FA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				55B5847A272B745400F1F7FA /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		55B5847E272B745600F1F7FA /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				55B5847F272B745600F1F7FA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -223,7 +261,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -278,7 +316,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;

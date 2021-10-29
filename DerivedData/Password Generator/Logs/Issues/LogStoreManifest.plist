@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E6779FCE-B312-4300-AEFC-32BF7C8A5BC0</key>
+		<key>FC6E4190-7B16-45A8-89A6-8359B3AF326A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>E6779FCE-B312-4300-AEFC-32BF7C8A5BC0.xcactivitylog</string>
+			<string>FC6E4190-7B16-45A8-89A6-8359B3AF326A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Password_Generator-cfzvasmvbvbuwjcfyslnaimdtvyt</string>
 			<key>timeStartedRecording</key>
-			<real>657145065.95001698</real>
+			<real>657160119.50075996</real>
 			<key>timeStoppedRecording</key>
-			<real>657145067.15950406</real>
+			<real>657160122.98732197</real>
 			<key>title</key>
 			<string>Build target Password Generator</string>
 			<key>uniqueIdentifier</key>
-			<string>E6779FCE-B312-4300-AEFC-32BF7C8A5BC0</string>
+			<string>FC6E4190-7B16-45A8-89A6-8359B3AF326A</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

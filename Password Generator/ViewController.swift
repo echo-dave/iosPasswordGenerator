@@ -13,12 +13,15 @@ class ViewController: UIViewController {
     @IBOutlet weak var useNumbers: UISwitch!
     @IBOutlet weak var passwordLengthValue: UILabel!
     @IBOutlet weak var passwordLength: UISlider!
+    @IBOutlet weak var passworedOutput: UITextField!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 //        useNumbers.setOn(true, animated: true)
 //        print(useNumbers.isOn)
 //        passwordLength.isContinuous = false
+//        passworedOutput.isEnabled = false
+        passworedOutput.allowsEditingTextAttributes = false
     }
 
 
@@ -38,6 +41,21 @@ class ViewController: UIViewController {
         
         print("new password: \(newPassword)")
         print("password length: \(newPassword.count)")
+        passworedOutput.text = newPassword
+        
+    }
+    
+    
+    @IBAction func copyPassword(_ sender: UITextField) {
+        passworedOutput.isEnabled = true
+        let pasteboard = UIPasteboard.general
+        pasteboard.string = passworedOutput.text
+        print("copied password")
+        passworedOutput.isEnabled = false
+        
+        //        let pasteBoard = NSPasteboard.generalPasteboard()
+//        pasteBoard.clearContents()
+//        pasteBoard.setString("my string", forType: NSStringPboardType)
     }
 }
 
